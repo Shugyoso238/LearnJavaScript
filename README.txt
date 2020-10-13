@@ -1,1 +1,2 @@
 JavaScript学習
+VSCodeを使ってソースコード書きます（テスト）
